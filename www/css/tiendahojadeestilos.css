@@ -1,0 +1,71 @@
+.centrarimagen{
+	position: absolute;
+	width: 80%;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	margin: auto; 
+}
+
+.adaptable{
+	width: 100%;
+	height: 100%;
+}
+
+
+.centrar{
+	width: 75%;
+	/*height: 390px;
+	position: absolute;*/
+	top: 80px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+
+.centrardiagonal{
+	width: 390px;
+	height: 300px;
+	position: absolute;
+	top: 10px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+
+.adaptacion{
+	width: 70%;
+	height: 50%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+
+.Fondo{
+	width: 384px;
+	height: 640px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+.abajo{
+	position: relative;
+	top: 650px;
+	left: 25px;
+	right: 25px;
+	bottom:100px;
+	margin: auto;
+
+}
